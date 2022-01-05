@@ -1,16 +1,53 @@
-### Hi there 👋
+# Hello, I'm Gabriel Santos 👋 ![](https://komarev.com/ghpvc/?username=Gabls&color=ea5f94&label=PROFILE+VIEWS&style=flat-square)
 
-<!--
-**Gabls/Gabls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤔 Some things about me:
+- I'm 17 years old.<br/>
+- I live in Santos - São Paulo - Brazil.<br/>
+- In 2021 I graduated from high school integrated to technician and now I am a Systems Development Technician.
+<br/><br/>
 
-Here are some ideas to get you started:
+### 💻 What do I know how to use:
+<a target="_blank" href="https://github.com/Gabls/">
+  <p>
+    <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-1073C9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  </p>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⌨️ Programming languages that I know:
+<a target="_blank" href="https://github.com/Gabls/">
+  <p>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e54d26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="CSharp" src="https://img.shields.io/badge/-C%23-7c209C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  </p>
+</a>
+
+### 📖 I'm learning:
+<a target="_blank" href="https://github.com/Gabls/">
+  <p>
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB"/>
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  </p>
+</a><br/>
+
+### 📫 How to reach me:
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/gabsousa/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Gabriel Santos de Sousa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a target="_blank" href="mailto:gabsousa.contato@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/gabsousa.contato@gmail.com-f14436?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p><br/>
+
+### ⚙️ Stats
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabls&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabls&layout=compact&langs_count=10&theme=radical"/>
+</div>
