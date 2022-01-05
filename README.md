@@ -37,7 +37,7 @@
 
 ### 📫 How to reach me:
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/gabsousa/">
+  <a target="_blank" href="https://www.linkedin.com/in/gabls/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Gabriel Santos de Sousa-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
