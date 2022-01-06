@@ -6,23 +6,18 @@
 - In 2021 I graduated from high school integrated to technician and now I am a Systems Development Technician.
 <br/><br/>
 
-### 💻 What do I know how to use:
+### ⌨️ What I know:
 <a target="_blank" href="https://github.com/Gabls/">
   <p>
-    <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-1073C9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </p>
-</a>
-
-### ⌨️ Programming languages that I know:
-<a target="_blank" href="https://github.com/Gabls/">
-  <p>
-    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e54d26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img alt="CSharp" src="https://img.shields.io/badge/-C%23-7c209C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-e54d26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e0c050?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="Jquery" src="https://img.shields.io/badge/-JQuery-0768ac?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>    
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+    <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-1073C9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </p>
 </a>
 
