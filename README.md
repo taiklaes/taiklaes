@@ -18,6 +18,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-4e9840.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-7275aa.svg?style=for-the-badge&logo=php&logoColor=white"/>
+    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="VSCode" src="https://img.shields.io/badge/-Visual Studio Code-1073C9?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   </p>
@@ -27,7 +28,6 @@
 <a target="_blank" href="https://github.com/Gabls/">
   <p>
     <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB"/>
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   </p>
 </a><br/>
