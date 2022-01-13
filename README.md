@@ -16,7 +16,6 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ead41c?style=for-the-badge&logo=javascript&logoColor=white"/>
     <img alt="Jquery" src="https://img.shields.io/badge/-JQuery-0768ac?style=for-the-badge&logo=jquery&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-4e9840.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img alt="PHP" src="https://img.shields.io/badge/PHP-7275aa.svg?style=for-the-badge&logo=php&logoColor=white"/>
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
