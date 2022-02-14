@@ -2,7 +2,7 @@
 
 ### 🤔 Some things about me:
 - I'm 17 years old.<br/>
-- I live in Santos - São Paulo - Brazil.<br/>
+- I live in São José dos Campos - São Paulo - Brazil.<br/>
 - In 2021 I graduated from high school integrated to technician and now I am a Systems Development Technician.
 <br/><br/>
 
