@@ -26,8 +26,7 @@
 ### 📖 I'm learning:
 <a target="_blank" href="https://github.com/Gabls/">
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB"/>
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-222222.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB"/>
   </p>
 </a><br/>
 
