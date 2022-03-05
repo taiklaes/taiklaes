@@ -1,7 +1,7 @@
 # Hello, I'm Gabriel Santos 👋 ![](https://komarev.com/ghpvc/?username=Gabls&color=ea5f94&label=PROFILE+VIEWS&style=flat-square)
 
 ### 🤔 Some things about me:
-- I'm 17 years old.<br/>
+- I'm 18 years old.<br/>
 - I live in São José dos Campos - São Paulo - Brazil.<br/>
 - In 2021 I graduated from high school integrated to technician and now I am a Systems Development Technician.
 <br/><br/>
