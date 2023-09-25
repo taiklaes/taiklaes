@@ -10,6 +10,7 @@
 ### ⌨️ What I know:
 <a target="_blank" href="https://github.com/Gabls/">
   <p>
+    <img alt="C" src="https://img.shields.io/badge/-C-7c209C?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="CSharp" src="https://img.shields.io/badge/-C%23-7c209C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-264ee4?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
