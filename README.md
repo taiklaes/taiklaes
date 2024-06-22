@@ -1,4 +1,4 @@
-# Hello, I'm Gabriel Santos 👋 ![](https://komarev.com/ghpvc/?username=Gabls&color=ea5f94&label=PROFILE+VIEWS&style=flat-square)
+# Hello, I'm Tai 👋 ![](https://komarev.com/ghpvc/?username=taiklaes&color=ea5f94&label=PROFILE+VIEWS&style=flat-square)
 
 ### 🤔 Some things about me:
 - I'm 20 years old.
@@ -8,7 +8,7 @@
 <br/><br/>
 
 ### ⌨️ What I know:
-<a target="_blank" href="https://github.com/Gabls/">
+<a target="_blank" href="https://github.com/taiklaes/">
   <p>
     <img alt="C" src="https://img.shields.io/badge/-C-7c209C?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="CSharp" src="https://img.shields.io/badge/-C%23-7c209C?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -37,6 +37,6 @@
 
 ### ⚙️ Stats
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Gabls&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabls&layout=compact&langs_count=10&theme=radical"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=taiklaes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiklaes&layout=compact&langs_count=10&theme=radical"/>
 </div>
