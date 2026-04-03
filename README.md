@@ -1,8 +1,6 @@
 # Hello I'm Tai 👋
 - 🤓 I want to become a senior fullstack developer.
 - 🛠️ Graduated in Systems Development Technician from ETEC.
-- 🎓 Graduating in Science and Technology at UNIFESP.
-- 💼 Software Engineering Intern at Akaer.
 - 🩷 Passions for books, games, movies, and music.
 <br><br>
 
